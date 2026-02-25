@@ -1,0 +1,18 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" rx="20" fill="#0c336a"/>
+  
+  <!-- Main Cross -->
+  <rect x="50" y="30" width="100" height="20" fill="white"/>
+  <rect x="90" y="10" width="20" height="140" fill="white"/>
+  
+  <!-- Intertwined S-shape/infinity symbol -->
+  <path d="M 60 50 Q 50 60 60 70 Q 70 80 60 90 Q 50 100 60 110 Q 70 120 60 130" 
+        stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M 140 50 Q 150 60 140 70 Q 130 80 140 90 Q 150 100 140 110 Q 130 120 140 130" 
+        stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="100" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">CREATIVE LINK</text>
+  <text x="100" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">for advancing digital health</text>
+</svg>
